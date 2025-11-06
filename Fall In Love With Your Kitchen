@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<table style="width:100%; background:#d9e5ed; padding:20px 0;" border="0" cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr>
-<td align="center">
-
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cozy Kitchen Email</title>
   <style>
     a.button:hover {
       background-color:#ffffff !important;
@@ -14,98 +14,111 @@
       color:#003965 !important;
     }
   </style>
-        <!-- Inner Container -->
-        <table style="max-width:600px; background:#ffffff; margin:0 auto; border-radius:8px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.05);" width="100%" border="0" cellspacing="0" cellpadding="0">
+</head>
+<body style="margin:0; padding:0; background:#d9e5ed; font-family:Lato, Arial, sans-serif;">
 
-          <!-- Header with Logo -->
-          <tr>
-            <td style="height:60px; background:#234156; text-align:center;">
-              <img src="https://content.app-us1.com/ve572/2021/06/01/a42c4c7b2d017bccb6d1c4b3e6186351f6755822.png" 
-                   alt="Spray-Net Logo" 
-                   width="150" 
-                   style="vertical-align:middle;">
-            </td>
-          </tr>
+  <table style="width:100%; padding:20px 0;" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td align="center">
 
-          <!-- Hero Banner -->
-          <tr>
-            <td style="padding:0;" align="center">
-              <img style="width:100%; height:auto; display:block; border-radius:0;" 
-                   src="https://content.app-us1.com/ve572/2025/11/05/bf60ff29-c5c9-465c-9164-9ec9a27a2f31.png" 
-                   alt="Hero Banner" 
-                   title="Hero Banner">
-            </td>
-          </tr>
-          <!-- Main Content -->
-          <tr>
-            <td style="padding:30px 40px; color:#003965; line-height:1.6; font-family:Lato, Arial, sans-serif; font-size:16px;">
+          <!-- Inner Container -->
+          <table style="max-width:600px; background:#ffffff; margin:0 auto; border-radius:8px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.05);" width="100%" border="0" cellspacing="0" cellpadding="0">
 
-              <!-- Hero Title & Text -->
-              <div style="padding-left:25px; padding-right:25px; text-align:center;">
-                <h1 style="font-size:22px; margin-bottom:20px;">A Kitchen That Feels Like Home &#127810;</h1>
-                <p style="margin-bottom:25px;">Turn your kitchen into a cozy haven this season. With refreshed cabinets, every meal, morning coffee, or family gathering will feel even more inviting.</p>
-              </div>
+            <!-- Header with Logo -->
+            <tr>
+              <td style="height:60px; background:#234156; text-align:center;">
+                <img src="https://content.app-us1.com/ve572/2021/06/01/a42c4c7b2d017bccb6d1c4b3e6186351f6755822.png" 
+                     alt="Spray-Net Logo" 
+                     width="150" 
+                     style="vertical-align:middle;">
+              </td>
+            </tr>
 
-              <!-- CTA Button 1 -->
-              <div style="text-align:center; margin-bottom:40px;">
-                <a href="mailto:%SALES_CONSULTANT_EMAIL%" class="button" 
-                   style="background-color:#f57e20; color:#ffffff; padding:15px 25px; text-decoration:none; font-weight:bold; border-radius:5px; display:inline-block; border:2px solid #f57e20;">
-                   Book Your Cozy Kitchen Makeover
-                </a>
-              </div>
+            <!-- Hero Banner -->
+            <tr>
+              <td style="padding:0;" align="center">
+                <img style="width:100%; height:auto; display:block; border-radius:0;" 
+                     src="https://content.app-us1.com/ve572/2025/11/05/bf60ff29-c5c9-465c-9164-9ec9a27a2f31.png" 
+                     alt="Hero Banner" 
+                     title="Hero Banner">
+              </td>
+            </tr>
 
-              <!-- Transformation Section -->
-              <div style="padding-left:25px; padding-right:25px; text-align:center; margin-bottom:40px;">
-                <h2 style="font-size:20px; margin-top:0; margin-bottom:10px;"> From Drab to Dreamy</h2>
-                <p style="margin-bottom:15px;"> Sometimes all it takes is a fresh look to make your kitchen feel like the heart of your home again.</p>
-                <img src="https://content.app-us1.com/ve572/2025/09/23/f5fc4bb3-6721-4be4-9194-7456f8b4364e.png" 
-                     alt="Kitchen Transformations" 
-                     style="width:100%; height:auto; display:block; border-radius:5px;">
-              </div>
+            <!-- Main Content -->
+            <tr>
+              <td style="padding:30px 40px; line-height:1.6; font-size:16px;">
 
-              <!-- Google Reviews Section -->
-              <div style="padding-left:25px; padding-right:25px; text-align:center; margin-bottom:40px;">
-                <h2 style="font-size:20px; margin-top:0; margin-bottom:5px;">What Our Clients Are Saying</h2>
-                <p style="margin-bottom:0px;"> We love what we do, and our clients love to share their experiences! See why homeowners turn to Spray-Net for their kitchen transformations.</p>
-                <img src="https://content.app-us1.com/ve572/2025/11/06/e7d53e10-5b97-40a7-b002-645e573f8763.png" 
-                     alt="Google Reviews" 
-                     style="width:100%; height:auto; display:block; border-radius:5px; margin-bottom:20px;">
-                <!-- Secondary CTA -->
-                <a href="%MICROSITE%" class="button" 
-                   style="background-color:#f57e20; color:#ffffff; padding:15px 25px; text-decoration:none; font-weight:bold; border-radius:5px; display:inline-block; border:2px solid #f57e20;">
-                   Visit Our Website
-                </a>
-              </div>
+                <!-- Hero Title & Text -->
+                <div style="padding-left:25px; padding-right:25px; text-align:center;">
+                  <h1 style="font-size:22px; margin-bottom:20px;">A Kitchen That Feels Like Home &#127810;</h1>
+                  <p style="margin-bottom:25px;">Turn your kitchen into a cozy haven this season. With refreshed cabinets, every meal, morning coffee, or family gathering will feel even more inviting.</p>
+                </div>
 
-            </td>
-          </tr>          
+                <!-- CTA Button 1 -->
+                <div style="text-align:center; margin-bottom:40px;">
+                  <a href="mailto:%SALES_CONSULTANT_EMAIL%" class="button" 
+                     style="background-color:#f57e20; color:#ffffff; padding:15px 25px; text-decoration:none; font-weight:bold; border-radius:5px; display:inline-block; border:2px solid #f57e20;">
+                     Book Your Cozy Kitchen Makeover
+                  </a>
+                </div>
 
-          <!-- Footer -->
-          <tr>
-            <td style="background:#f4f4f4; padding:30px 20px; text-align:center; font-family:Lato, Arial, sans-serif; color:#555; font-size:12px; line-height:1.5;">
+                <!-- Transformation Section -->
+                <div style="padding-left:25px; padding-right:25px; text-align:center; margin-bottom:40px;">
+                  <h2 style="font-size:20px; margin-top:0; margin-bottom:10px;">From Drab to Dreamy</h2>
+                  <p style="margin-bottom:15px;">Sometimes all it takes is a fresh look to make your kitchen feel like the heart of your home again.</p>
+                  <img src="https://content.app-us1.com/ve572/2025/09/23/f5fc4bb3-6721-4be4-9194-7456f8b4364e.png" 
+                       alt="Kitchen Transformations" 
+                       style="width:100%; height:auto; display:block; border-radius:5px;">
+                </div>
 
-<!-- Social Icons --> 
-<div style="margin-bottom:15px; text-align:center;"> 
-<a href="https://www.facebook.com/SprayNetInc/" target="_blank" style="margin:0 5px; display:inline-block;"> 
-<img src="https://content.app-us1.com/ve572/2025/11/06/6d6adc02-9e55-4305-8477-c0ce65a4fad6.png" alt="Facebook" width="24" style="display:block; border:0;"> 
-</a> 
-<a href="https://www.instagram.com/spray_net/?hl=en" target="_blank" style="margin:0 5px; display:inline-block;"> 
-<img src="https://content.app-us1.com/ve572/2025/11/06/b6b40e8a-d378-4b27-a886-2e3d478aa818.png" alt="Instagram" width="24" style="display:block; border:0;"> 
-</a> 
-<a href="https://www.youtube.com/c/SprayNetInc" target="_blank" style="margin:0 5px; display:inline-block;"> 
-<img src="https://content.app-us1.com/ve572/2025/11/06/1dd5eaa0-41b1-4e8f-a7b0-30ca88a8ff4d.png" alt="YouTube" width="24" style="display:block; border:0;"> 
-</a> 
-</div> 
+                <!-- Google Reviews Section -->
+                <div style="padding-left:25px; padding-right:25px; text-align:center; margin-bottom:40px;">
+                  <h2 style="font-size:20px; margin-top:0; margin-bottom:5px;">What Our Clients Are Saying</h2>
+                  <p style="margin-bottom:0;">We love what we do, and our clients love to share their experiences! See why homeowners turn to Spray-Net for their kitchen transformations.</p>
+                  <img src="https://content.app-us1.com/ve572/2025/11/06/e7d53e10-5b97-40a7-b002-645e573f8763.png" 
+                       alt="Google Reviews" 
+                       style="width:100%; height:auto; display:block; border-radius:5px; margin-bottom:20px;">
+                  <!-- Secondary CTA -->
+                  <a href="%MICROSITE%" class="button" 
+                     style="background-color:#f57e20; color:#ffffff; padding:15px 25px; text-decoration:none; font-weight:bold; border-radius:5px; display:inline-block; border:2px solid #f57e20;">
+                     Visit Our Website
+                  </a>
+                </div>
 
-              <!-- Footer Text -->
-              <p style="margin:0 0 10px 0; color:#003965;">© 2025 Spray‑Net. All rights reserved.</p>
-              <p style="margin:0; color:#003965;">If you no longer wish to receive these emails, you can <a href="%UNSUBSCRIBE_LINK%" style="color:#f57e20; text-decoration:underline;">unsubscribe here</a>.</p>
-              
-            </td>
-          </tr>
+              </td>
+            </tr>          
 
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
+            <!-- Footer -->
+            <tr>
+              <td style="background:#f4f4f4; padding:30px 20px; text-align:center; color:#555; font-size:12px; line-height:1.5;">
+
+                <!-- Social Icons --> 
+                <div style="margin-bottom:15px; text-align:center;"> 
+                  <a href="https://www.facebook.com/SprayNetInc/" target="_blank" style="margin:0 5px; display:inline-block;"> 
+                    <img src="https://content.app-us1.com/ve572/2025/11/06/6d6adc02-9e55-4305-8477-c0ce65a4fad6.png" alt="Facebook" width="24" style="display:block; border:0;"> 
+                  </a> 
+                  <a href="https://www.instagram.com/spray_net/?hl=en" target="_blank" style="margin:0 5px; display:inline-block;"> 
+                    <img src="https://content.app-us1.com/ve572/2025/11/06/b6b40e8a-d378-4b27-a886-2e3d478aa818.png" alt="Instagram" width="24" style="display:block; border:0;"> 
+                  </a> 
+                  <a href="https://www.youtube.com/c/SprayNetInc" target="_blank" style="margin:0 5px; display:inline-block;"> 
+                    <img src="https://content.app-us1.com/ve572/2025/11/06/1dd5eaa0-41b1-4e8f-a7b0-30ca88a8ff4d.png" alt="YouTube" width="24" style="display:block; border:0;"> 
+                  </a> 
+                </div> 
+
+                <!-- Footer Text -->
+                <p style="margin:0 0 10px 0; color:#003965;">© 2025 Spray‑Net. All rights reserved.</p>
+                <p style="margin:0; color:#003965;">If you no longer wish to receive these emails, you can <a href="%UNSUBSCRIBE_LINK%" style="color:#f57e20; text-decoration:underline;">unsubscribe here</a>.</p>
+
+              </td>
+            </tr>
+
+          </table>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
